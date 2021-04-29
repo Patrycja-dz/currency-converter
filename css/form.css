@@ -18,6 +18,8 @@
     width: 100%;
     max-width: 250px;
     margin: 10px;
+    color: #ffffff;
+    font-weight: 700;
 }
 .form__field{
     width: 100%;
