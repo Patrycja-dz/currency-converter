@@ -1,5 +1,5 @@
 
-# Currency converter - page for the YouCode course 
+# Currency converter - aplication for the YouCode course 
 
 ## 🎥 Preview site: ➡️ [clickHere](https://patrycja-dz.github.io/currency-converter/)
 ## 📑Table of contents
