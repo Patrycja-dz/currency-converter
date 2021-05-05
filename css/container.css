@@ -1,5 +1,8 @@
-.container{
-    max-width: 850px;
-    margin: 0 auto;
+.container {
+    flex-basis: 700px;
+    background-color: #fff;
+    margin: 60px 20px 0;
     padding: 0 20px;
+    border-radius: 15px;
+    box-shadow: 5px 4px 3px -1px hsla(0, 0%, 0%, 0.707);
 }

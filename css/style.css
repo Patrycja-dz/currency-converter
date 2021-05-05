@@ -6,8 +6,12 @@ html{
 }
 body{
     font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-image: url("https://i.postimg.cc/Zn2LQZKG/jan-antonin-kolar-i-5-KLZ6-Zgz-I-unsplash.jpg");
+    height: 100vh;
     background-size:cover;
-    background-position: bottom left;
+    background-position: center;
     background-repeat: no-repeat;
 }
